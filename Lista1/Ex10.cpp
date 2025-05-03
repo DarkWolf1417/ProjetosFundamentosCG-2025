@@ -1,6 +1,6 @@
 // Exercicio 10 - Desenho com primitivas em OpenGL Moderna
 // Desenho baseado em imagem com casa, sol e gramado
-
+#include <stdio.h>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <cmath>
